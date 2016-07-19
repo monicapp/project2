@@ -1,0 +1,68 @@
+<resources>
+    <!-- -->
+
+    <!-- Datos de la App  -->
+    <string name="tittle">MonicApp</string>
+    <string name="app_name">MONICAPP</string>
+
+    <!-- Datos RegistroUsuario  -->
+    <string name="nameUser">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="confirPassword">ConfirmarContraseña</string>
+    <string name="logInFaceBook">Registrar Con FaceBook</string>
+    <string name="signUp">Registrar</string>
+    <string name="signUp2">REGISTRO</string>
+
+    <!-- Datos de LogIn  -->
+    <string name="linkCreate">¿Aun no tienes cuenta?¡click aqui!</string>
+    <string name="logIn">Ingresar</string>
+    <string name="inicio">HOME</string>
+    <string name="title_activity_prueba">Prueba</string>
+    <string name="perfil">Perfil</string>
+    <string name="grupo">Grupo</string>
+
+    <!-- Datos RegistroIngresos  -->
+    <string name="ingresos">INGRESOS</string>
+    <string name="sueldo">Sueldo</string>
+    <string name="comision">Comision</string>
+    <string name="otros">Otros</string>
+    <string name="aceptar">Aceptar</string>
+
+    <!-- Datos RegistroObligacion  -->
+    <string name="gastos">GASTOS</string>
+    <string name="obligacion">OBLIGACION</string>
+
+    <!-- Datos RegistroMeta  -->
+    <string name="metas">METAS</string>
+
+    <!-- Mensaje de Salida -->
+    <string name="salir1">Salir</string>
+    <string name="salir2">¿Estas Seguro?</string>
+
+    <!-- Datos del FragmentResumen  -->
+    <!-- MenuResumen  -->
+    <string name="action_settings">Settings</string>
+    <string name="opcResumen">1</string>
+    <string name="opcResumen1">2</string>
+    <string name="opcResumen2">3</string>
+
+    <!-- Datos del FragmentObligacion  -->
+    <!-- MenuObligacion  -->
+    <string name="opcObligacion">4</string>
+    <string name="opcObligacion1">5</string>
+    <string name="opcObligacion2">6</string>
+
+    <!-- Datos del FragmentMeta  -->
+    <!-- MenuMeta  -->
+    <string name="opcMeta">7</string>
+    <string name="opcMeta1">8</string>
+    <string name="opcMeta2">9</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
+
+
